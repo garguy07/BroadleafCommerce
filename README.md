@@ -1,4 +1,4 @@
-## Broadleaf Commerce Community Edition (CE)
+## Broadleaf Commerce Community Edition (CE) - Gargie
 
 Important: Our Community Edition is source-available under a Fair Use license. Available to companies with under $5M in revenue — it is not an Apache 2 open source product.
 
